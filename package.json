@@ -1,0 +1,21 @@
+{
+  "name": "algostudy",
+  "version": "1.0.0",
+  "description": "A repo that contains my solutions to commom algorithm problems. All of the solutions are currently in JavaScript.",
+  "main": "twoSum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanBlount/algoStudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanBlount/algoStudy/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/JordanBlount/algoStudy#readme"
+}
